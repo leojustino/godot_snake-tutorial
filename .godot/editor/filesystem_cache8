@@ -1,0 +1,16 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1696691724
+default_env.tres::Environment::625987985733755332::1696387445::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1696387643::0::1::::<><>::
+icon.png::CompressedTexture2D::5726853575377287935::1696373151::1696381530::1::::<><>::
+::res://assets/::1696381530
+apple.png::CompressedTexture2D::5987682514701594080::1696373576::1696381530::1::::<><>::
+bg.png::CompressedTexture2D::3250762342260624140::1696373554::1696381530::1::::<><>::
+MaldiniBold.ttf::FontFile::5270909855205699046::1696373565::1696381530::1::::<><>::
+::res://scenes/::1696387445
+game_over_menu.gd::GDScript::-1::1696386332::0::1::::<>CanvasLayer<>::
+game_over_menu.tscn::PackedScene::5367666937545297090::1696386332::0::1::::<><>::res://scenes/game_over_menu.gd<>uid://chdjd6g3hgnas::::res://assets/MaldiniBold.ttf
+hud.tscn::PackedScene::5905286997492965618::1696382936::0::1::::<><>::uid://chdjd6g3hgnas::::res://assets/MaldiniBold.ttf
+main.gd::GDScript::-1::1696387444::0::1::::<>Node2D<>::
+main.tscn::PackedScene::8411234373490024470::1696387445::0::1::::<><>::res://scenes/main.gd<>uid://bmkxt0pellssy::::res://assets/bg.png<>uid://8o3c0v6ns7ec::::res://scenes/snake_segment.tscn<>uid://cqethjqa1iyja::::res://scenes/hud.tscn<>uid://crkqiyf584mbw::::res://assets/apple.png<>uid://ciqexp6ao3cna::::res://scenes/game_over_menu.tscn
+snake_segment.tscn::PackedScene::2346838122948437770::1696387445::0::1::::<><>::

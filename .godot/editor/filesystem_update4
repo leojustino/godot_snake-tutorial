@@ -1,0 +1,4 @@
+res://default_env.tres
+res://scenes/main.tscn
+res://scenes/snake_segment.tscn
+res://scenes/main.gd
